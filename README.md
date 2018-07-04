@@ -1,5 +1,7 @@
 # Project 1
 
+![Alt Text](https://github.com/NasiaKouts/Sandwich-Android-App/blob/master/assets/recording.gif)
+
 In this project we had to create the JSON parser, and then using the sandwich object created the info taken by JSON, we had to populate the details activity. Also, we had to make any modification to the detail activity's layout, in order to show the sandwich's info in a well organized way.
 
 ## Notes about the implementation
